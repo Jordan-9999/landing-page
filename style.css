@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.hero, 
+.footer{
+background-color:#1F2937;
+}
+.logo{
+    color:#F9FAF8;
+}
+.links{
+    margin:0;
+    padding:0;
+    font-size:18px;
+    
+}
+li{
+    list-style:none;
+}
+a{
+    color:#E5E7EB;
+    text-decoration:none;
+}
+.main-text{
+    color:#F9FAF8;
+}
+.hero-subtext{
+    color:#E5E7EB;
+}
+button{
+    background:#3882F6;
+    color:#F9FAF8;
+}
+.placeholder-img{
+    background:#7b7a80;
+    color:#F9FAF8;
+}
+
